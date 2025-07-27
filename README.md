@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arseny,.NET/C# developer from St. Petersburg</h1>
+<h1 align="center">Hi, I'm Arseny, .NET/C# developer from St. Petersburg</h1>
 
 ## Technology stack
 
