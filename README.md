@@ -3,7 +3,7 @@
 ## Technology stack
 
 
-- Backend: C#, ASP.NET, EF Core
+- Backend: C#, ASP.NET, ASP.NET Core MVC (Razor Pages, Web-API Controllers), EF Core, Swagger (NSwag/Swashbuckle), AutoMapper
 - Desktop: WPF
 - Frontend: HTML, CSS, Bootstrap
 - Databases: PostgreSQL, MSSQL, SQLite
