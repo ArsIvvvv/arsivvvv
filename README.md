@@ -16,7 +16,7 @@
 - HTML5, CSS3, Bootstrap  
 
 ### Databases
-- PostgreSQL, Microsoft SQL Server (MSSQL), SQLite  
+- PostgreSQL, Microsoft SQL Server (MSSQL), SQLite, Redis 
 
 ### Tools & Version Control
 - Git  
