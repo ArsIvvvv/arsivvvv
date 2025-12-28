@@ -19,7 +19,8 @@
 - PostgreSQL, Microsoft SQL Server (MSSQL), SQLite, Redis 
 
 ### Tools & Version Control
-- Git  
+- Git
+- Docker
 
 ## 🏗 Architecture & Methodologies
 
