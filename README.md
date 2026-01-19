@@ -7,7 +7,9 @@
 - **C#**, ASP.NET, ASP.NET Core MVC (Razor Pages, Web API Controllers)  
 - Entity Framework Core (EF Core)  
 - API Documentation: Swagger (NSwag, Swashbuckle)  
-- AutoMapper  
+- AutoMapper
+- MediatR
+- FluentValidation
 
 ### Desktop
 - WPF (Windows Presentation Foundation)  
@@ -16,14 +18,16 @@
 - HTML5, CSS3, Bootstrap  
 
 ### Databases
-- PostgreSQL, Microsoft SQL Server (MSSQL), SQLite, Redis 
+- PostgreSQL, Microsoft SQL Server (MSSQL), SQLite, Redis, MongoDB
 
 ### Tools & Version Control
 - Git
-- Docker
+- Docker/docker-compose
 
 ## 🏗 Architecture & Methodologies
 
 - Domain-Driven Design (DDD)  
 - Model-View-ViewModel (MVVM)  
-- RESTful API 
+- RESTful API
+- Microservice approach
+- CQRS
